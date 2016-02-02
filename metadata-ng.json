@@ -1,0 +1,27 @@
+{
+    "name": "Mendix Starter",
+    "services": [
+        {
+            "name": "sqldb",
+			"plan": "sqldb_small"
+        }
+    ],
+    "defaultMemory": 512,
+    "description": "This sample application demonstrates how to run Mendix on IBM Bluemix.",
+    "type": "web",
+    "version": "1.0",
+    "smallIcon": "mx-logo-ibm-24x24.png",
+    "icon": "mx-logo-ibm-32x32.png",
+    "largeIcon": "mx-logo-ibm-50x50.png",
+    "featuredIcon": "mx-logo-ibm-64x64.png",
+    "executableFile": "MendixStarter_1.0.0.4.mda",
+    "system_tags": ["ibm_created"],
+    "source": {
+        "scmType": "git",
+        "url": ".git",
+        "appPath": "app"
+    },
+	"docURL": "https://www.mendix.com/",
+	"categories": ["boilerplate"],
+	"buildpack":"https://github.com/mendix/cf-mendix-buildpack"
+}
