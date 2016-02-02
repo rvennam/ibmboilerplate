@@ -20,7 +20,7 @@
    ],
    "source":{
       "scmType":"git",
-      "url":".git",
+      "url":"https://github.com/rvennam/ibmboilerplate.git",
       "appPath":"app"
    },
    "docURL":"https://www.mendix.com/",
