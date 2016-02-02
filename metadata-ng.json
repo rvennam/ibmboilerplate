@@ -29,6 +29,7 @@
    ],
    "buildpack":"https://github.com/mendix/cf-mendix-buildpack",
    "setEnv":{
-      "ADMIN_PASSWORD":"password"
+      "ADMIN_PASSWORD":"passw0rd",
+      "DEVELOPMENT_MODE":"true"
    }
 }
