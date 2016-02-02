@@ -15,7 +15,7 @@
     "largeIcon": "mx-logo-ibm-50x50.png",
     "featuredIcon": "mx-logo-ibm-64x64.png",
     "executableFile": "MendixStarter_1.0.0.4.mda",
-    "system_tags": ["ibm_created"],
+    "system_tags": ["community"],
     "source": {
         "scmType": "git",
         "url": ".git",
