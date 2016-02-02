@@ -2,8 +2,8 @@
     "name": "Mendix Starter",
     "services": [
         {
-            "name": "sqldb",
-			"plan": "sqldb_small"
+            "name": "elephantsql",
+			"plan": "turtle"
         }
     ],
     "defaultMemory": 512,
