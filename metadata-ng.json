@@ -31,5 +31,6 @@
    "setEnv":{
       "ADMIN_PASSWORD":"passw0rd",
       "DEVELOPMENT_MODE":"true"
-   }
+   },
+   "runtime_template_id": "javaHelloWorld"
 }
