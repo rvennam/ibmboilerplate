@@ -28,8 +28,7 @@
    ],
    "envVars":{
       "ADMIN_PASSWORD":"passw0rd",
-      "DEVELOPMENT_MODE":"true",
-      "DATABASE_URL":"postgres://pjzvlmwc:gye9TaNo6C25zN6-6jpTZGLBVyeuVm5_@jumbo.db.elephantsql.com:5432/pjzvlmwc"
+      "DEVELOPMENT_MODE":"true"
    },
    "buildpack":"https://github.com/rvennam/cf-mendix-buildpack"
 }
