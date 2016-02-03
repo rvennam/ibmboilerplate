@@ -14,22 +14,22 @@
    "icon":"mx-logo-ibm-32x32.png",
    "largeIcon":"mx-logo-ibm-50x50.png",
    "featuredIcon":"mx-logo-ibm-64x64.png",
-   "executableFile":"HelloWorld.war",
    "system_tags":[
       "community"
    ],
    "source":{
       "scmType":"git",
       "url":"https://github.com/rvennam/ibmboilerplate.git",
-      "appPath":"app"
+      "appPath":"app_extracted"
    },
    "docURL":"https://www.mendix.com/",
    "categories":[
       "boilerplate"
-   ]
+   ],
    "envVars":{
       "ADMIN_PASSWORD":"passw0rd",
-      "DEVELOPMENT_MODE":"true"
+      "DEVELOPMENT_MODE":"true",
+      "DATABASE_URL":"postgres://pjzvlmwc:gye9TaNo6C25zN6-6jpTZGLBVyeuVm5_@jumbo.db.elephantsql.com:5432/pjzvlmwc"
    },
-   "runtime_template_id": "javaHelloWorld"
+   "buildpack":"https://github.com/rvennam/cf-mendix-buildpack"
 }
