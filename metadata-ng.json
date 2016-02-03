@@ -28,7 +28,7 @@
       "boilerplate"
    ],
    "buildpack":"https://github.com/mendix/cf-mendix-buildpack",
-   "setEnv":{
+   "envVars":{
       "ADMIN_PASSWORD":"passw0rd",
       "DEVELOPMENT_MODE":"true"
    },
