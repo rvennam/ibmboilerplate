@@ -30,5 +30,5 @@
       "ADMIN_PASSWORD":"passw0rd",
       "DEVELOPMENT_MODE":"true"
    },
-   "buildpack":"https://github.com/rvennam/cf-mendix-buildpack"
+   "buildpack":"https://github.com/mendix/cf-mendix-buildpack"
 }
