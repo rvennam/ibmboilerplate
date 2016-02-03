@@ -32,5 +32,5 @@
       "DEVELOPMENT_MODE":"true",
       "DATABASE_URL":"postgres://pjzvlmwc:gye9TaNo6C25zN6-6jpTZGLBVyeuVm5_@jumbo.db.elephantsql.com:5432/pjzvlmwc"
    },
-   "buildpack":"https://github.com/mendix/cf-mendix-buildpack"
+   "buildpack":"https://github.com/rvennam/cf-mendix-buildpack"
 }
