@@ -1,5 +1,5 @@
 {
-   "name":"Mendix Starter",
+   "name":"Mendix",
    "services":[
       {
          "name":"elephantsql",
@@ -7,7 +7,7 @@
       }
    ],
    "defaultMemory":512,
-   "description":"This sample application demonstrates how to run Mendix on IBM Bluemix.",
+   "description":"Platform that allows users to build, integrate and deploy web and mobile applications.",
    "type":"web",
    "version":"1.0",
    "smallIcon":"mx-logo-ibm-24x24.png",
@@ -26,6 +26,9 @@
    "categories":[
       "runtime"
    ],
+   "metadata" : {
+		"termsUrl" : "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
+	},
    "envVars":{
       "ADMIN_PASSWORD":"passw0rd",
       "DEVELOPMENT_MODE":"true"
