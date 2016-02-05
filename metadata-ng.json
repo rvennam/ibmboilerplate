@@ -24,7 +24,7 @@
    },
    "docURL":"https://www.mendix.com/",
    "categories":[
-      "boilerplate"
+      "runtime"
    ],
    "envVars":{
       "ADMIN_PASSWORD":"passw0rd",
