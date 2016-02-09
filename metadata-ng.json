@@ -24,7 +24,7 @@
    },
    "docURL":"https://www.mendix.com/",
    "categories":[
-      "runtime"
+      "boilerplate"
    ],
    "metadata" : {
 		"termsUrl" : "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
@@ -33,5 +33,6 @@
       "ADMIN_PASSWORD":"passw0rd",
       "DEVELOPMENT_MODE":"true"
    },
-   "buildpack":"https://github.com/mendix/cf-mendix-buildpack"
+   "buildpack":"https://github.com/mendix/cf-mendix-buildpack",
+   "runtime_template_id": "javaHelloWorld"
 }
