@@ -34,6 +34,6 @@
       "ADMIN_PASSWORD":"passw0rd",
       "DEVELOPMENT_MODE":"true"
    },
-   "buildpack":"https://github.com/mendix/cf-mendix-buildpack",
-   "runtime_template_id": "javaHelloWorld"
+   "buildpack":"java_buildpack",
+   "runtime_template_id": "mendixRuntimeStarter"
 }
