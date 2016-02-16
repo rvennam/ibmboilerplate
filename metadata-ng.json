@@ -14,13 +14,14 @@
    "icon":"mx-logo-ibm-32x32.png",
    "largeIcon":"mx-logo-ibm-50x50.png",
    "featuredIcon":"mx-logo-ibm-64x64.png",
+   "executableFile": "mendixBoilerplate.war",
    "system_tags":[
       "community"
    ],
    "source":{
       "scmType":"git",
       "url":"https://github.com/rvennam/mendixBoilerplate.git",
-      "appPath":"app_extracted"
+      "appPath":"app"
    },
    "docURL":"https://www.mendix.com/",
    "categories":[
